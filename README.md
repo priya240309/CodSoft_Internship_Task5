@@ -20,11 +20,7 @@ As part of the **CodSoft Internship - Task 5**, a straightforward but effective 
 
 ---
 
-## Screenshots
 
-> * (If your GUI has screenshots, include them here)* [Contact Book GUI] (screenshot.png)
-
----
 
 ## 🚀 How to Run
 
